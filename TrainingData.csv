@@ -374,7 +374,7 @@ A,8,7,7,8,6,Tolak
 B,8,7,7,7,9,Tolak
 C,8,7,7,6,6,Tolak
 D,8,9,9,7,7,Terima
-E,8,8,7,9,8,terima
+E,8,8,7,9,8,Terima
 A,7,6,8,7,8,Tolak
 B,7,7,7,6,7,Tolak
 C,7,6,6,8,5,Tolak
@@ -398,7 +398,7 @@ E,9,9,8,7,8,Terima
 A,8,7,8,7,7,Terima
 B,7,7,9,8,7,Tolak
 C,9,8,9,9,7,Terima
-E,8,9,8,9,8,terima
+E,8,9,8,9,8,Terima
 E,8,8,7,9,8,Tolak
 A,7,8,7,6,6,Tolak
 B,9,8,8,7,7,Terima
